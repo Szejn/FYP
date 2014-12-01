@@ -1,0 +1,22 @@
+Action Plan (1-Dec-2014)
+
+Week Starting 1-Dec-2014
+
+- Pull together and format research and references
+	- Existing Tech
+	- Introduce NLP and NLTK
+	- Work done with Python
+
+- Complete design of system
+
+Week Starting 8-Dec-2014
+
+- Testing approach
+- Risks/Challanges in project
+- Prototyping
+- Submit Interim Report
+
+Week Starting 15-Dec-2014
+
+- Complete prototype
+- Demo
