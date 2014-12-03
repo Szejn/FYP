@@ -1,0 +1,96 @@
+Project Statement
+
+
+Alternatives:
+
+OpenNER - http://www.opener-project.eu/
+ABNER - http://pages.cs.wisc.edu/~bsettles/abner/
+Standford NER - http://nlp.stanford.edu/software/CRF-NER.shtml#About
+Citeology - http://www.autodeskresearch.com/pdf/CiteologyAltCHI.pdf
+	  - http://www.autodeskresearch.com/projects/citeology
+
+Background:
+
+NLP
+	- NER
+		- POS
+		- Chunking
+	- Co-reference resolution
+
+Tech Researched:
+
+http://en.wikipedia.org/wiki/Outline_of_natural_language_processing#Natural_language_processing_toolkits
+
+LingPipe (Java)
+NLTK (Python)
+Apache OpenNLP (Java)
+
+Why NLTK?
+
+Java - Difficult, too much padding
+Python - Broad Language, simple, clean, quick
+NLTK - Great documentation, ticked all boxes
+Contrast others
+
+New tech:
+
+Python - used old programming labs to familiarise myself
+NLTK - NLTK book, great exercises + steps to follow
+
+Findings
+
+Analysis:
+
+- Input text
+- NER and Co-referecnce resolution
+- Save to database
+- Output to graph
+
+
+Methodology??
+
+Design:
+
+Input:
+
+- Raw text to start
+- PDF import? (Low Priority)
+
+Program:
+
+- Standardise text
+- Sentence segmentation
+- POS
+- Entity Recognition
+- Co-reference
+
+Database:
+
+- Simple database, hold imformation about characters
+
+Graphing:
+
+- Web-based?
+- Pull info from database
+
+Prototyping:
+
+- Basic program?
+- Show segmentation and POS
+- Some NER if time
+
+Testing?
+
+Issues and Risks:
+
+Challanges:
+
+- Common sentence structures
+- Start with plays (heavily structured)
+
+Left to do:
+
+- Dev
+- Algorithm design
+
+Conclusion
