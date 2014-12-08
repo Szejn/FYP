@@ -3,9 +3,8 @@ Project Statement
 
 Alternatives:
 
-OpenNER - http://www.opener-project.eu/
+
 ABNER - http://pages.cs.wisc.edu/~bsettles/abner/
-Standford NER - http://nlp.stanford.edu/software/CRF-NER.shtml#About
 Citeology - http://www.autodeskresearch.com/pdf/CiteologyAltCHI.pdf
 	  - http://www.autodeskresearch.com/projects/citeology
 
@@ -24,6 +23,8 @@ http://en.wikipedia.org/wiki/Outline_of_natural_language_processing#Natural_lang
 LingPipe (Java)
 NLTK (Python)
 Apache OpenNLP (Java)
+OpenNER - http://www.opener-project.eu/
+Standford NER - http://nlp.stanford.edu/software/CRF-NER.shtml#About
 
 Why NLTK?
 
@@ -47,7 +48,7 @@ Analysis:
 - Output to graph
 
 
-Methodology??
+Methodology - Iterative and incremental
 
 Design:
 
@@ -66,7 +67,7 @@ Program:
 
 Database:
 
-- Simple database, hold imformation about characters
+- Simple database, hold information about characters
 
 Graphing:
 
