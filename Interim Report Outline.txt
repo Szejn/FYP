@@ -20,11 +20,10 @@ Tech Researched:
 
 http://en.wikipedia.org/wiki/Outline_of_natural_language_processing#Natural_language_processing_toolkits
 
-LingPipe (Java)
-NLTK (Python)
-Apache OpenNLP (Java)
-OpenNER - http://www.opener-project.eu/
-Standford NER - http://nlp.stanford.edu/software/CRF-NER.shtml#About
+LingPipe (Java) - Clunky, online-demos, good documentation, book not free
+NLTK (Python) - easy install, excellent documentation (NLTK Book)/Wiki, Python
+Apache OpenNLP (Java) - decent documentation, still Java
+Standford NER - http://nlp.stanford.edu/software/CRF-NER.shtml#About - Poor documentation, Java, easy install
 
 Why NLTK?
 
@@ -42,6 +41,7 @@ Findings
 
 Analysis:
 
+- Simple GUI
 - Input text
 - NER and Co-referecnce resolution
 - Save to database
@@ -80,9 +80,14 @@ Prototyping:
 - Show segmentation and POS
 - Some NER if time
 
-Testing?
+Testing
+
+- Test cases covering basic tasks
+- F score evaluation of NER
 
 Issues and Risks:
+
+- Corefernce
 
 Challanges:
 
