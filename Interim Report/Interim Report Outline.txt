@@ -52,6 +52,10 @@ Methodology - Iterative and incremental
 
 Design:
 
+Technical architecture
+ERD
+Use Case Diagram
+
 Input:
 
 - Raw text to start
@@ -82,7 +86,7 @@ Prototyping:
 
 Testing
 
-- Test cases covering basic tasks
+- Test cases covering functional and non-functional requirements
 - F score evaluation of NER
 
 Issues and Risks:
